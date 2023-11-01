@@ -1,2 +1,2 @@
-# Tiyao
-A Chinese Ancient Book Summary Catalog Dataset and Retrieval System
+# Chinese ancient books summary bibliographic
+A Chinese Ancient Book Summary Bibliographic Dataset and Retrieval System
